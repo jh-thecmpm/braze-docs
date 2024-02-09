@@ -32,4 +32,7 @@ guide_featured_list:
   - name: Creating Custom Content Cards
     link: /docs/developer_guide/customization_guides/content_cards/creating_custom_content_cards
     fa_icon: fa fa-arrows-h
+  - name: Troubleshooting Content Cards
+    link: /docs/developer_guide/customization_guides/content_cards/troubleshooting
+    fa_icon: fa fa-code
 ---
