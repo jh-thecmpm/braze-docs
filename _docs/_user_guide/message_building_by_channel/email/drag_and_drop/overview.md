@@ -100,9 +100,9 @@ Need help creating awesome copy? Try using the [AI copywriting assistant]({{site
 
 Once you've finished designing and building your email message, it's time to add your sending information in the **Sending Settings** section.
 
-1. Under **Sending Info**, select an email as the **From Display Name + Address**. You can also customize this by selecting **Customize From Display Name + Address**.
+1. Under **Sending Info**, select an email as the **From Display Name + Address**. You can also customize this by selecting **Customize From Display Name + Address**. If you are using Dynamic Sending Domains, you can customize the From Domain here.
 2. Select an email as the **Reply-To Address**. You can also customize this by selecting **Customize Reply-To Address**.
-3. Next, select an email as the **BCC Address** to make your email visible to this address.
+3. Optionally, select an email as the **BCC Address** to make your email visible to this address. When you add a BCC address to an email, Braze sends one message to each user and one message to the BCC address. This will double your billable emails.
 4. Add a subject line to your email. Optionally, you can also add a preheader and a whitespace after the preheader.
 
 A preview in the right-hand panel will populate with the sending information you've added. This information can also be updated by navigating to **Settings** > **Email Preferences** > **Sending Configuration**.
