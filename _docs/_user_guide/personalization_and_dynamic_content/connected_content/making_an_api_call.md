@@ -20,7 +20,7 @@ For example, the following message body will access the URL `http://numbersapi.c
 
 ```
 {% connected_content http://numbersapi.com/random/trivia :save result %}
-Hi there, here is fun some trivia for you!: {{result.text}}
+Hi there, here is some fun trivia for you!: {{result.text}}
 ```
 
 ### Adding variables
